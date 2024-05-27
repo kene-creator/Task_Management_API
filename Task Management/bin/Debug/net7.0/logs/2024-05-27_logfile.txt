@@ -1,0 +1,10 @@
+2024-05-27 07:43:32.9581 ERROR An error occurred while registering user: Cannot insert duplicate key row in object 'dbo.Users' with unique index 'IX_Users_Email'. The duplicate key value is (user@example.com).
+The statement has been terminated.
+2024-05-27 07:44:43.4376 ERROR An error occurred while registering user: Cannot insert duplicate key row in object 'dbo.Users' with unique index 'IX_Users_Email'. The duplicate key value is (user@example.com).
+The statement has been terminated.
+2024-05-27 07:46:24.8524 INFO Attempting to retrieve bank list from Flutterwave API.
+2024-05-27 07:46:27.0625 INFO Successfully retrieved bank list from Flutterwave API.
+2024-05-27 07:50:15.9267 INFO Attempting to retrieve bank list from Flutterwave API.
+2024-05-27 07:50:17.7713 INFO Successfully retrieved bank list from Flutterwave API.
+2024-05-27 08:03:42.4734 INFO Attempting to retrieve bank list from Flutterwave API.
+2024-05-27 08:03:44.6306 INFO Successfully retrieved bank list from Flutterwave API.
